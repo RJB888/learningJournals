@@ -1,0 +1,4 @@
+# LJ Code 201 - Day 20
+
+Its a little unreal that its all over.  The presentations went pretty well (I thought).  Now to make sure everything is submitted, and wait for final grades and admissions contract for 301.  The project was a very good experience.  I learned a lot about working in a group, especially in one that functions well.  Our project experience was surprisingly smooth, even though there were disagreements amongst the group, it was all handled well, and professionally, and quickly.  I was impressed with what the other groups did as well.  The group that did the Scramble game managed to do something that I could not get to work when I was working on my bus mall.  So, I may have to sneak over and look at their code in order to see how they did it.  
+Well, thats it for 201.  Time to start the pre-work for 301 and try to get a little ahead of the ball so that I'm not being drug behind the bus on Day 1 !
